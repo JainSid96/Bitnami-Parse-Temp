@@ -25,9 +25,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-                .applicationId("5a967a381894abccdb56c1c6ecc4b385409b1c3f")
-                .clientKey("630027cb21a16f374934feedd9195e90a86f6711")
-                .server("http://ec2-13-126-125-192.ap-south-1.compute.amazonaws.com:80/parse/")
+                .applicationId("    ")
+                .clientKey("   ")
+                .server("   ")
                 .build()
         );
 
